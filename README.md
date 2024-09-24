@@ -1,7 +1,7 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&random=false&width=435&lines=Hey%2C+nice+to+see+you!;I'm+Gabriel.)](https://git.io/typing-svg)
 ## About Me
 <p align="center"> A self-motivated tech enthusiast and student, building software for fun. :sunglasses: <br><br>
-Currently specializing in Analysis and Systems Development and Cybersecurity, I am passionate about leveraging technology to solve complex challenges. My journey in tech is driven by curiosity and a relentless pursuit of knowledge. With a solid foundation in these areas, I thrive on tackling challenges and building efficient, scalable applications.
+Currently specializing in Analysis and Systems Development and Cybersecurity, I am passionate about leveraging technology to solve complex challenges. My journey in tech is driven by curiosity and a relentless pursuit of knowledge.
 <br><br>
 
 <br>

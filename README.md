@@ -13,7 +13,7 @@ Currently specializing in Analysis and Systems Development and Cybersecurity, I 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,postman)](https://skillicons.dev)
 
 #### Learning
-[![Learning](https://skillicons.dev/icons?i=figma,typescript,mongodb,nodejs,express,aws,azure)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=jest,typescript,mongodb,nodejs,express,aws,azure)](https://skillicons.dev)
 
 #### Interested in learning at some point
 [![interested in learning at some point](https://skillicons.dev/icons?i=sass,flutter,kotlin,java,electron,nextjs,nginx)](https://skillicons.dev)

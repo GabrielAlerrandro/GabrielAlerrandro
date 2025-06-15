@@ -16,7 +16,7 @@ Currently specializing in Analysis and Systems Development and Cybersecurity, I 
 [![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,spring,junit,docker,aws,azure,jenkins)](https://skillicons.dev)
 
 #### Interested in learning at some point
-[![interested in learning at some point](https://go-skill-icons.vercel.app/api/icons?i=kotlin,nestjs,reactnative,kubernetes,nginx,redis,rabbitmq)](https://skillicons.dev)
+[![interested in learning at some point](https://go-skill-icons.vercel.app/api/icons?i=kotlin,nestjs,mongodb,kubernetes,nginx,redis,rabbitmq)](https://skillicons.dev)
 
 ## Status
 <div align="center" style="margin-bottom: 100px;">
